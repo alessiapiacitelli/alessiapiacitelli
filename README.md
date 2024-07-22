@@ -1,53 +1,28 @@
-# Hi! I am Alessia
-## I am an Economics and Finance student at NYU Abu Dhabi, with a particular focus on Econometrics and Data Analysis.
-- I am currently working on Kaggle competitions to implement my newly acquired Machine Learning knowledge and ML in Python skills
-- I am also following the MIT online course "Topics In Mathematics With Applications In Finance"
+<h1 align="left"> Hi, I am Alessia</h1>
+<h3 aligh="left"> I am a rising Economics and Finance senior at NYU Abu Dhabi with a strong  interest in markets, econometrics, and data analysis. Throughout my journey at NYU, I had the opportunity to study at NYU London, NYU New York, and NYU Buenos Aires.
 
-### How to reach me:
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/alessia-piacitelli-b63311220/))
-- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)]([https://www.kaggle.com/your-kaggle-profile](https://www.kaggle.com/alessiapiacitelli))
+- Currently, I am self-learning Machine Learning data analysis in Python and I am practising by participating in Kaggle finance competitions.
+- I am also taking the MIT online course "Topics In Mathematics with Applications in Finance".
 
-### My programming languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+<h3 aligh="left"> These are some of the projects I have worked on in the last year:
 
-### My socials
-- [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)]([https://www.behance.net/your-behance-profile](https://www.behance.net/apiacitelli))
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://www.instagram.com/your-instagram-profile](https://www.instagram.com/itskillture/))
+- Equity Risk Premia
+- PCA
 
-In my spare time I paint, play tennis, and the flute.
+<h3 aligh="left"> how to reach me:
+<p align="left">
+<a [href="mailto:alessia.piacitelli@nyu.edu](mailto:href=%22mailto:alessia.piacitelli@nyu.edu)" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alessia-piacitelli-b63311220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessia-piacitelli-b6331122" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/alessiapiacitelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alessiapiaci" height="30" width="40" /></a>
 
+</p>
 
+<h3 align="left"> my programming languages:</h3>
+<p align="left">
+<a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### My programming languages
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
-In my spare time I paint, play tennis, and the flute. You can see my work here: 
-
-- [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/your-behance-profile)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram-profile)
-
+<h3 align="left"> In my spare time, I paint, play the flute, and tennis. You can see some of my works here: </h3>
+<a href="https://www.behance.net/apiacitelli" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="behance" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/itskillture/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/> </a>
+</p>
