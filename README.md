@@ -6,8 +6,8 @@
 
 <h3 aligh="left"> These are some of the projects I have worked on in the last year:
 
-- Equity Risk Premia
-- PCA
+- Options Term Structure using Principal Component Analysis
+- Equity Risk Premia using Standard Regression and Spread Analysis
 
 <h3 aligh="left"> how to reach me:
 <p align="left">
