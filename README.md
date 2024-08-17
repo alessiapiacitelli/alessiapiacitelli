@@ -1,15 +1,15 @@
 <h1 align="left"> Hi, I am Alessia</h1>
-<h3 aligh="left"> I am a rising Economics and Finance senior at NYU Abu Dhabi with a strong  interest in markets, econometrics, and data analysis. Throughout my journey at NYU, I had the opportunity to study at NYU London, NYU New York, and NYU Buenos Aires.
+<h3 align="left"> I am a rising Economics and Finance senior at NYU Abu Dhabi with a strong  interest in markets, econometrics, and data analysis. Throughout my journey at NYU, I had the opportunity to study at NYU London, NYU New York, and NYU Buenos Aires.</h3>
 
 - Currently, I am self-learning Machine Learning data analysis in Python and I am practising by participating in Kaggle finance competitions.
 - I am also taking the MIT online course "Topics In Mathematics with Applications in Finance".
 
-<h3 aligh="left"> These are some of the projects I have worked on in the last year:
+<h3 align="left"> These are some of the projects I have worked on in the last year:</h3>
 
 - Options Term Structure using Principal Component Analysis
 - Equity Risk Premia using Standard Regression and Spread Analysis
 
-<h3 aligh="left"> how to reach me:
+<h3 align="left"> how to reach me:</h3>
 <p align="left">
 <a [href="mailto:alessia.piacitelli@nyu.edu](mailto:href=%22mailto:alessia.piacitelli@nyu.edu)" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="email" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alessia-piacitelli-b63311220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessia-piacitelli-b6331122" height="30" width="40" /></a>
